@@ -1,2 +1,3 @@
 # sortings
-Implementation of some famous sorting algorithms
+Implementation of some famous sorting algorithms including mergesort, 
+quicksort, insertion sort and counting sort...
